@@ -1,0 +1,10 @@
+C:\Users\Dogruyer_2\Documents\GitHub\dogruyer-blog\dogruyer-blog\dogruyer-blog\bin\dogruyer-blog.dll.config
+C:\Users\Dogruyer_2\Documents\GitHub\dogruyer-blog\dogruyer-blog\dogruyer-blog\bin\dogruyer-blog.dll
+C:\Users\Dogruyer_2\Documents\GitHub\dogruyer-blog\dogruyer-blog\dogruyer-blog\bin\dogruyer-blog.pdb
+C:\Users\Dogruyer_2\Documents\GitHub\dogruyer-blog\dogruyer-blog\dogruyer-blog\bin\System.Web.Mvc.dll
+C:\Users\Dogruyer_2\Documents\GitHub\dogruyer-blog\dogruyer-blog\dogruyer-blog\bin\System.Web.Razor.dll
+C:\Users\Dogruyer_2\Documents\GitHub\dogruyer-blog\dogruyer-blog\dogruyer-blog\bin\System.Web.Razor.xml
+C:\Users\Dogruyer_2\Documents\GitHub\dogruyer-blog\dogruyer-blog\dogruyer-blog\bin\System.Web.Mvc.xml
+C:\Users\Dogruyer_2\Documents\GitHub\dogruyer-blog\dogruyer-blog\dogruyer-blog\obj\Debug\dogruyer-blog.csprojResolveAssemblyReference.cache
+C:\Users\Dogruyer_2\Documents\GitHub\dogruyer-blog\dogruyer-blog\dogruyer-blog\obj\Debug\dogruyer-blog.dll
+C:\Users\Dogruyer_2\Documents\GitHub\dogruyer-blog\dogruyer-blog\dogruyer-blog\obj\Debug\dogruyer-blog.pdb
