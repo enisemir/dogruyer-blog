@@ -35,7 +35,7 @@
                 </div>
 
                 <div>
-                    Will you attend?
+                    <label> Will you attend?</label>
                     @Html.DropDownListFor(x => x.WillAttend, new[] {
                  new SelectListItem() {Text = "Yes, I'll be there",
                  Value = bool.TrueString},
@@ -45,7 +45,7 @@
                  }, "Choose an option", new { @class = "form-control" })
                 </div>
                 <div class="text-center">
-                    <input type="submit" value="Submit RSVP" />
+                    <input class="btn-success" type="submit" value="Submit RSVP" />
                 </div>
             }
         </div>
