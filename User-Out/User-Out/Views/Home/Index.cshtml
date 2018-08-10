@@ -1,0 +1,76 @@
+﻿@model User_Out.Models.User
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <title>Index</title>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-md-offset-3">
+                <div class="panel panel-login">
+                    <div class="panel-heading">
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <a href="#" class="active text-center" id="login-form-link">Login Page</a>
+                            </div>                     
+                        </div>
+                        <hr>
+                    </div>
+                    <div class="panel-body">
+                        @using (Html.BeginForm())
+                        {
+                            @Html.ValidationSummary()
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div style="display: block;">                        
+                                    <div class="form-group">                                     
+                                        @Html.TextBoxFor(x=>x.UserName, new { @class = "form-control",@placeholder="UserName" })                                 
+                                    </div>
+                                    <div class="form-group">
+                                       @Html.TextBoxFor(x => x.Email, new { @class = "form-control", @placeholder = "Email" })  
+                                    </div>
+                                    <div class="form-group">
+                                        @Html.TextBoxFor(x => x.Password, new { @class = "form-control", @placeholder = "Password" })                                        
+                                    </div>
+                                    <div class="form-group text-center">                             
+                                        @Html.CheckBox("Remember")                                  
+                                        <label for="remember"> Remember Me</label>
+                                    </div>
+                                    <div class="form-group">
+                                        <div class="row">
+                                            <div class="col-sm-6 col-sm-offset-3">
+                                                <input type="submit" class="form-control btn btn-login" value="Log In">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <div class="text-center">
+                                                    <a href="https://phpoll.com/recover" tabindex="5" class="forgot-password">Forgot Password?</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>                             
+                            </div>
+                        </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/jquery-1.9.0.min.js"></script>
+</body>
+</html>
