@@ -31,3 +31,8 @@ C:\Users\Dogruyer_2\Documents\GitHub\dogruyer-blog\User-Out\User-Out\bin\System.
 C:\Users\Dogruyer_2\Documents\GitHub\dogruyer-blog\User-Out\User-Out\obj\Debug\User-Out.csprojResolveAssemblyReference.cache
 C:\Users\Dogruyer_2\Documents\GitHub\dogruyer-blog\User-Out\User-Out\obj\Debug\User-Out.dll
 C:\Users\Dogruyer_2\Documents\GitHub\dogruyer-blog\User-Out\User-Out\obj\Debug\User-Out.pdb
+C:\Users\Dogruyer_2\Documents\GitHub\dogruyer-blog\User-Out\User-Out\bin\System.Net.Http.Extensions.dll
+C:\Users\Dogruyer_2\Documents\GitHub\dogruyer-blog\User-Out\User-Out\bin\System.Net.Http.Primitives.dll
+C:\Users\Dogruyer_2\Documents\GitHub\dogruyer-blog\User-Out\User-Out\bin\System.Net.Http.Extensions.xml
+C:\Users\Dogruyer_2\Documents\GitHub\dogruyer-blog\User-Out\User-Out\bin\System.Net.Http.Primitives.xml
+C:\Users\Dogruyer_2\Documents\GitHub\dogruyer-blog\User-Out\User-Out\obj\Debug\User-Out.csproj.App.config
